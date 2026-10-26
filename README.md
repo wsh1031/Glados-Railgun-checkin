@@ -18,10 +18,9 @@
 
 ### 注册 GLaDOS 账号
 
-注册地址：<https://glados.space/landing/0A58E-NV28S-6U3QV-33VMG>
+注册地址：<https://glados.cloud/register>
 
-- 我的邀请码：[`0A58E-NV28S-6U3QV-33VMG`](https://0a58e-nv28s-6u3qv-33vmg.glados.space)
-- 我的优惠码（9 折）：[`DEVILSTORE`](https://0a58e-nv28s-6u3qv-33vmg.glados.space)
+- 我的9折优惠码（支付宝）：[`WSH11`](https://0a58e-nv28s-6u3qv-33vmg.glados.space)
 
 ### Fork 本仓库
 
